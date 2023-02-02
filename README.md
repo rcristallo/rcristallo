@@ -1,4 +1,4 @@
-###<center> Hi there 👋</center>
+###Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently interested in full-stack development<br><br>🌱 I’m currently learning JavaScript and ReactJS<br><br>🚀 Experienced in Java, Python, C#, and .NET framework<br><br>📫 How to reach me: raffaele.cristalloo@gmail.com<br>
