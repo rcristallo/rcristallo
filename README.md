@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rcristallo/rcristallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently interested in full-stack development<br><br>🌱 I’m currently learning JavaScript and ReactJS<br><br>🚀 Experienced in Java, Python, C#, and .NET framework<br><br>📫 How to reach me: raffaele.cristalloo@gmail.com<br>
 
@@ -20,6 +17,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rcristallo&icon=7&color=12)](https://visitcount.itsvg.in)
 
+<!--
+**rcristallo/rcristallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
