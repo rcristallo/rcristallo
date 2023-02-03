@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raffaele</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcristallo&label=Profile%20views&color=0e75b6&style=flat" alt="rcristallo" /> </p>
 
-<h3 align="left">💫 About Me:</h3>
+##💫 About Me:
 - 🔭 I’m currently interested **in full-stack development**
 
 - 📫 How to reach me: **raffaele.cristalloo@gmail.com**
