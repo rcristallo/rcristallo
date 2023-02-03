@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **raffaele.cristalloo@gmail.com**
 
-- 🌱 I’m currently learning J **avaScript and ReactJS**
+- 🌱 I’m currently learning **JavaScript and ReactJS**
 
 - 🚀 Experienced in **Java, Python, C#, and .NET framework**
 
